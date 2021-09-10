@@ -179,6 +179,9 @@ body{
  .pic_button--right{
      right: -40px;
  }
+ footer{
+     margin-top: 0;
+ }
  .footer{
      background-color: rgb(39, 37, 37);
      opacity: 20;
