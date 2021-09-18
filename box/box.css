@@ -1,0 +1,124 @@
+
+body{
+padding: 30px;
+
+
+}
+ 
+#first{
+    width: 400px;
+    height: 400px;
+    background: blue;
+     position: relative;
+     margin: auto;
+     margin-bottom: 20px;
+   
+
+    
+    
+}
+#second{
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    position: absolute; 
+     top: 25%;
+     left: 25%;
+     
+    
+
+}
+
+#third{
+    height: 100px;
+    width:100px ;
+    position: absolute;
+    background-color: cyan;
+
+    
+    top:25%;
+    left: 25%;
+}
+p{
+    text-align: center;
+    padding: 10px;
+    line-height: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;}
+    .wrapper{
+        margin: auto ;
+    padding: 40px;
+    }
+ 
+img{
+    width: 100px;
+    height: 100px;
+    
+    object-fit: cover;
+    float: left;
+    display: block;
+}
+.sub-1{
+    text-align: justify;
+    transform: translateX(5px);
+max-width: 650px;
+min-width: 550px;
+margin: 0px;
+padding: 0;
+}
+.wrapper-1{
+    background-color: rgb(122, 115, 115);
+    border-radius: 100px;
+    padding: 50px;
+    
+}
+.first-box{
+    height: 250px;
+    width: 200px;display: block;
+    padding:3px 5px 5px 5px;
+    border: 1px solid red;
+   text-align: justify;
+    font-size: 15px;
+    margin-bottom: 10px !important;
+    margin: auto;
+
+
+}
+.second-box{
+    height: 250px;
+    width: 200px;display: block;
+    padding:3px 5px 5px 5px;
+    border: 1px solid black;
+   text-align: center;
+    font-size: 15px;
+    margin-bottom: 10px !important;
+    margin: auto;
+    box-shadow: 10px 10px black;
+    -moz-box-shadow:-5px red
+    
+}
+.third-box{
+    height: 250px;
+    width: 200px;display: block;
+    padding:3px 5px 5px 5px;
+    border: 1px double red;
+   text-align: justify;
+    font-size: 15px; 
+    margin: auto;  
+}
+    
+
+    
+
+      
+
+
+
+
+
+ 
+    
+
+      
+
+  

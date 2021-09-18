@@ -1,0 +1,47 @@
+.main-nav{
+    background-image: url(https://images.all-free-download.com/images/graphiclarge/technology_background_modern_dark_elegant_blue_golden_geometric_6845863.jpg);
+    text-align: center;
+    margin: auto;
+   max-width:100%;
+   min-width: 70%;
+   max-height: 100px;
+   min-height: 70px;
+
+    padding-top: 30px !important;
+
+    
+}
+  a {
+    text-decoration: none;
+    margin: 10px!important;
+    color: white;
+}
+
+.a-1{
+    margin-top: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    
+}
+ 
+
+ 
+a:hover{
+    background-color: gray;
+    color: black;
+    
+  cursor: pointer;
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+p{ text-align: justify;
+    line-height: 2;
+    
+}
+
+
+
+
